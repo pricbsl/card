@@ -1,0 +1,18 @@
+.noticia {
+	position: relative;
+	
+}
+.container-img {
+	width: 450px;
+}
+.container-img img {
+	width: 100%;
+	border-radius: 8px;
+}
+.container-texto {
+	position: absolute;
+	bottom: 16px;
+	left: 16px;
+	width: 300px;
+	color: #FFF;
+}
